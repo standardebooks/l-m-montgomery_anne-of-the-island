@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-5.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Periods followed by lowercase letter are the result of a letter written by a child containing multiple spelling and grammar mistakes.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code> t-011</code>
+			<reason>Signature of letter has no ending punctuation, so there is no punctuation before closing quotes.</reason>
+		</ignore>
+		<ignore>
+			<code> t-029</code>
+			<reason>Lowercase letters following periods are x's representing kisses.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
