@@ -131,6 +131,10 @@ footer{
 /* End of Letters */
 
 /* Essay */
+[epub|type~="z3998:essay"]{
+	margin: 1em 0;
+}
+
 [epub|type~="title"],
 [epub|type~="conclusion"]{
 	text-align: center;
