@@ -8,10 +8,6 @@
 	</file>
 	<file path="chapter-17.xhtml">
 		<ignore>
-			<code> t-011</code>
-			<reason>Signature of letter has no ending punctuation, so there is no punctuation before closing quotes.</reason>
-		</ignore>
-		<ignore>
 			<code> t-029</code>
 			<reason>Lowercase letters following periods are x's representing kisses.</reason>
 		</ignore>
