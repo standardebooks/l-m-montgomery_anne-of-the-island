@@ -1,0 +1,1 @@
+The Faded Page Canada transcription is from a Bantam edition printed in the United States of America with Americanized spelling. This edition returned the spelling to the original British. Italics were removed from names of characters in fictional works.
